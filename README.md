@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TalismanovAleksandr
-- 👀 I’m interested in System Architecture, Networking, Security
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in System and Software Architecture, Networking, Security
+- ✨ I'm pretty good in Java and Kotlin
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ... I dunno :D
 - 📫 How to reach me ... Don't reach me that fast
 
